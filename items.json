@@ -1,0 +1,303 @@
+[
+  {
+    "position": 1,
+    "title": "AmazonFresh Colombia Whole Bean Coffee, Medium Roast, 32 Ounce",
+    "asin": "B071WWCVJV",
+    "link": "https://www.amazon.com/AmazonFresh-Colombia-Whole-Coffee-Medium/dp/B071WWCVJV/ref=sr_1_1_mod_primary_new?keywords=coffee+beans&qid=1664306926&qu=eyJxc2MiOiI3LjQ3IiwicXNhIjoiNy43MCIsInFzcCI6IjcuNTgifQ%3D%3D&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-1",
+    "categories": [
+      {
+        "name": "All Departments",
+        "id": "aps"
+      }
+    ],
+    "image": "https://m.media-amazon.com/images/I/7121M8H6isL._AC_UL320_.jpg",
+    "is_prime": true,
+    "rating": 4.4,
+    "ratings_total": 10240,
+    "featured_from_our_brands": true,
+    "is_amazon_brand": true,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 15.45,
+        "currency": "USD",
+        "raw": "$15.45",
+        "name": "$15.45"
+      },
+      {
+        "symbol": "$",
+        "value": 15.45,
+        "currency": "USD",
+        "raw": "$15.45",
+        "name": "$15.45"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "value": 15.45,
+      "currency": "USD",
+      "raw": "$15.45",
+      "name": "$15.45"
+    },
+    "delivery": {
+      "tagline": "Get it as soon as Fri, Sep 30",
+      "price": {
+        "raw": "FREE Shipping on orders over $25 shipped by Amazon",
+        "symbol": "$",
+        "currency": "USD",
+        "value": 0,
+        "is_free": true
+      }
+    }
+  },
+  {
+    "position": 2,
+    "title": "Lavazza Espresso Italiano Whole Bean Coffee Blend, Medium Roast, 2.2 Pound Bag",
+    "asin": "B00P0ZMWEC",
+    "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzEwMTMzOTIyNzk5Nzk3OjE2NjQzMDY5MjY6c3BfYXRmOjIwMDA4MjUyMjUyNzc0MTo6MDo6&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&url=%2FLavazza-Espresso-Coffee-Medium-2-2-Pound%2Fdp%2FB00P0ZMWEC%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dcoffee%2Bbeans%26qid%3D1664306926%26qu%3DeyJxc2MiOiI3LjQ3IiwicXNhIjoiNy43MCIsInFzcCI6IjcuNTgifQ%253D%253D%26sr%3D8-2-spons%26psc%3D1",
+    "categories": [
+      {
+        "name": "All Departments",
+        "id": "aps"
+      }
+    ],
+    "image": "https://m.media-amazon.com/images/I/51QSM56MTGL._AC_UL320_.jpg",
+    "bestseller": {
+      "link": "https://www.amazon.com/gp/bestsellers/grocery/2251592011/ref=sr_bs_1_2251592011_1",
+      "category": "Roasted Coffee Beans"
+    },
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 71550,
+    "sponsored": true,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 16.99,
+        "currency": "USD",
+        "raw": "$16.99",
+        "name": "$16.99",
+        "asin": "B00P0ZMWEC",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzEwMTMzOTIyNzk5Nzk3OjE2NjQzMDY5MjY6c3BfYXRmOjIwMDA4MjUyMjUyNzc0MTo6MDo6&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&url=%2FLavazza-Espresso-Coffee-Medium-2-2-Pound%2Fdp%2FB00P0ZMWEC%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dcoffee%2Bbeans%26qid%3D1664306926%26qu%3DeyJxc2MiOiI3LjQ3IiwicXNhIjoiNy43MCIsInFzcCI6IjcuNTgifQ%253D%253D%26sr%3D8-2-spons%26psc%3D1"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "value": 16.99,
+      "currency": "USD",
+      "raw": "$16.99",
+      "name": "$16.99",
+      "asin": "B00P0ZMWEC",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzEwMTMzOTIyNzk5Nzk3OjE2NjQzMDY5MjY6c3BfYXRmOjIwMDA4MjUyMjUyNzc0MTo6MDo6&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&url=%2FLavazza-Espresso-Coffee-Medium-2-2-Pound%2Fdp%2FB00P0ZMWEC%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dcoffee%2Bbeans%26qid%3D1664306926%26qu%3DeyJxc2MiOiI3LjQ3IiwicXNhIjoiNy43MCIsInFzcCI6IjcuNTgifQ%253D%253D%26sr%3D8-2-spons%26psc%3D1"
+    },
+    "delivery": {
+      "tagline": "Get it as soon as Fri, Sep 30",
+      "price": {
+        "raw": "FREE Shipping on orders over $25 shipped by Amazon",
+        "symbol": "$",
+        "currency": "USD",
+        "value": 0,
+        "is_free": true
+      }
+    }
+  },
+  {
+    "position": 3,
+    "title": "STARBUCKS® Espresso Roast – Whole Bean Coffee 18oz​",
+    "asin": "B09369VYBL",
+    "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzEwMTMzOTIyNzk5Nzk3OjE2NjQzMDY5MjY6c3BfYXRmOjIwMDAyOTQ3MzQ0Njg5ODo6MDo6&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&url=%2FStarbucks-Dark-Roast-Whole-Coffee%2Fdp%2FB09369VYBL%2Fref%3Dsr_1_3_sspa%3Fkeywords%3Dcoffee%2Bbeans%26qid%3D1664306926%26qu%3DeyJxc2MiOiI3LjQ3IiwicXNhIjoiNy43MCIsInFzcCI6IjcuNTgifQ%253D%253D%26sr%3D8-3-spons%26psc%3D1",
+    "categories": [
+      {
+        "name": "All Departments",
+        "id": "aps"
+      }
+    ],
+    "image": "https://m.media-amazon.com/images/I/71uP4k7hcOL._AC_UL320_.jpg",
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 7664,
+    "sponsored": true,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 12.48,
+        "currency": "USD",
+        "raw": "$12.48",
+        "name": "$12.48",
+        "asin": "B09369VYBL",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzEwMTMzOTIyNzk5Nzk3OjE2NjQzMDY5MjY6c3BfYXRmOjIwMDAyOTQ3MzQ0Njg5ODo6MDo6&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&url=%2FStarbucks-Dark-Roast-Whole-Coffee%2Fdp%2FB09369VYBL%2Fref%3Dsr_1_3_sspa%3Fkeywords%3Dcoffee%2Bbeans%26qid%3D1664306926%26qu%3DeyJxc2MiOiI3LjQ3IiwicXNhIjoiNy43MCIsInFzcCI6IjcuNTgifQ%253D%253D%26sr%3D8-3-spons%26psc%3D1"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "value": 12.48,
+      "currency": "USD",
+      "raw": "$12.48",
+      "name": "$12.48",
+      "asin": "B09369VYBL",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzEwMTMzOTIyNzk5Nzk3OjE2NjQzMDY5MjY6c3BfYXRmOjIwMDAyOTQ3MzQ0Njg5ODo6MDo6&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&url=%2FStarbucks-Dark-Roast-Whole-Coffee%2Fdp%2FB09369VYBL%2Fref%3Dsr_1_3_sspa%3Fkeywords%3Dcoffee%2Bbeans%26qid%3D1664306926%26qu%3DeyJxc2MiOiI3LjQ3IiwicXNhIjoiNy43MCIsInFzcCI6IjcuNTgifQ%253D%253D%26sr%3D8-3-spons%26psc%3D1"
+    },
+    "delivery": {
+      "tagline": "Get it as soon as Fri, Sep 30",
+      "price": {
+        "raw": "FREE Shipping on orders over $25 shipped by Amazon",
+        "symbol": "$",
+        "currency": "USD",
+        "value": 0,
+        "is_free": true
+      }
+    }
+  },
+  {
+    "position": 4,
+    "title": "Death Wish Coffee Whole Bean Dark Roast (5 lbs.)",
+    "asin": "B00FM03XCU",
+    "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzEwMTMzOTIyNzk5Nzk3OjE2NjQzMDY5MjY6c3BfYXRmOjIwMDA5NDI3ODYzMzM1MTo6MDo6&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&url=%2FDeath-Wish-Coffee-Strongest-Certified%2Fdp%2FB00FM03XCU%2Fref%3Dsr_1_4_sspa%3Fkeywords%3Dcoffee%2Bbeans%26qid%3D1664306926%26qu%3DeyJxc2MiOiI3LjQ3IiwicXNhIjoiNy43MCIsInFzcCI6IjcuNTgifQ%253D%253D%26sr%3D8-4-spons%26psc%3D1%26smid%3DA3FFNGPA34M6B1",
+    "categories": [
+      {
+        "name": "All Departments",
+        "id": "aps"
+      }
+    ],
+    "image": "https://m.media-amazon.com/images/I/818lGym+0UL._AC_UL320_.jpg",
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 18403,
+    "is_small_business": true,
+    "sponsored": true,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 79.97,
+        "currency": "USD",
+        "raw": "$79.97",
+        "name": "$79.97",
+        "asin": "B00FM03XCU",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzEwMTMzOTIyNzk5Nzk3OjE2NjQzMDY5MjY6c3BfYXRmOjIwMDA5NDI3ODYzMzM1MTo6MDo6&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&url=%2FDeath-Wish-Coffee-Strongest-Certified%2Fdp%2FB00FM03XCU%2Fref%3Dsr_1_4_sspa%3Fkeywords%3Dcoffee%2Bbeans%26qid%3D1664306926%26qu%3DeyJxc2MiOiI3LjQ3IiwicXNhIjoiNy43MCIsInFzcCI6IjcuNTgifQ%253D%253D%26sr%3D8-4-spons%26psc%3D1%26smid%3DA3FFNGPA34M6B1"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "value": 79.97,
+      "currency": "USD",
+      "raw": "$79.97",
+      "name": "$79.97",
+      "asin": "B00FM03XCU",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzEwMTMzOTIyNzk5Nzk3OjE2NjQzMDY5MjY6c3BfYXRmOjIwMDA5NDI3ODYzMzM1MTo6MDo6&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&url=%2FDeath-Wish-Coffee-Strongest-Certified%2Fdp%2FB00FM03XCU%2Fref%3Dsr_1_4_sspa%3Fkeywords%3Dcoffee%2Bbeans%26qid%3D1664306926%26qu%3DeyJxc2MiOiI3LjQ3IiwicXNhIjoiNy43MCIsInFzcCI6IjcuNTgifQ%253D%253D%26sr%3D8-4-spons%26psc%3D1%26smid%3DA3FFNGPA34M6B1"
+    },
+    "delivery": {
+      "tagline": "Get it as soon as Fri, Sep 30",
+      "price": {
+        "raw": "FREE Shipping by Amazon",
+        "symbol": "$",
+        "currency": "USD",
+        "value": 0,
+        "is_free": true
+      }
+    }
+  },
+  {
+    "position": 2,
+    "title": "Barista Warrior - Reusable Stainless Steel (Gold Titanium Coated)",
+    "asin": "B01KSWV7E2",
+    "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A026885813EZ43954F7CI&url=%2FTITANIUM-COATED-GOLD-Coffee-Filter%2Fdp%2FB01KSWV7E2%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dchemex%2Bfilters%26qid%3D1664347216%26qu%3DeyJxc2MiOiIzLjAyIiwicXNhIjoiMi42NiIsInFzcCI6IjIuNjcifQ%253D%253D%26sr%3D8-2-spons%26psc%3D1&qualifier=1664347216&id=4161808152367954&widgetName=sp_atf",
+    "categories": [
+      {
+        "name": "All Departments",
+        "id": "aps"
+      }
+    ],
+    "image": "https://m.media-amazon.com/images/I/71zM++3oS5L._AC_UL320_.jpg",
+    "coupon": {
+      "badge_text": "Save 10%",
+      "text": "with coupon"
+    },
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 1426,
+    "is_small_business": true,
+    "sponsored": true,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 31.99,
+        "currency": "USD",
+        "raw": "$31.99",
+        "name": "$31.99",
+        "asin": "B01KSWV7E2",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A026885813EZ43954F7CI&url=%2FTITANIUM-COATED-GOLD-Coffee-Filter%2Fdp%2FB01KSWV7E2%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dchemex%2Bfilters%26qid%3D1664347216%26qu%3DeyJxc2MiOiIzLjAyIiwicXNhIjoiMi42NiIsInFzcCI6IjIuNjcifQ%253D%253D%26sr%3D8-2-spons%26psc%3D1&qualifier=1664347216&id=4161808152367954&widgetName=sp_atf"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "value": 31.99,
+      "currency": "USD",
+      "raw": "$31.99",
+      "name": "$31.99",
+      "asin": "B01KSWV7E2",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A026885813EZ43954F7CI&url=%2FTITANIUM-COATED-GOLD-Coffee-Filter%2Fdp%2FB01KSWV7E2%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dchemex%2Bfilters%26qid%3D1664347216%26qu%3DeyJxc2MiOiIzLjAyIiwicXNhIjoiMi42NiIsInFzcCI6IjIuNjcifQ%253D%253D%26sr%3D8-2-spons%26psc%3D1&qualifier=1664347216&id=4161808152367954&widgetName=sp_atf"
+    },
+    "delivery": {
+      "tagline": "Get it as soon as Fri, Sep 30",
+      "price": {
+        "raw": "FREE Shipping by Amazon",
+        "symbol": "$",
+        "currency": "USD",
+        "value": 0,
+        "is_free": true
+      }
+    }
+  },
+  {
+    "position": 3,
+    "title": "Barista Warrior Chemex Pour Over Coffee Filters - Reusable Stainless Steel (Silver)",
+    "asin": "B01KSWV7DS",
+    "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A0269170295BQ8G3YR4R9&url=%2FPour-Over-Filter-Hario-Chemex%2Fdp%2FB01KSWV7DS%2Fref%3Dsr_1_3_sspa%3Fkeywords%3Dchemex%2Bfilters%26qid%3D1664347216%26qu%3DeyJxc2MiOiIzLjAyIiwicXNhIjoiMi42NiIsInFzcCI6IjIuNjcifQ%253D%253D%26sr%3D8-3-spons%26psc%3D1&qualifier=1664347216&id=4161808152367954&widgetName=sp_atf",
+    "categories": [
+      {
+        "name": "All Departments",
+        "id": "aps"
+      }
+    ],
+    "image": "https://m.media-amazon.com/images/I/71UlzTfaJES._AC_UL320_.jpg",
+    "coupon": {
+      "badge_text": "Save 10%",
+      "text": "with coupon"
+    },
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 1251,
+    "is_small_business": true,
+    "sponsored": true,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 31.99,
+        "currency": "USD",
+        "raw": "$31.99",
+        "name": "$31.99",
+        "asin": "B01KSWV7DS",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A0269170295BQ8G3YR4R9&url=%2FPour-Over-Filter-Hario-Chemex%2Fdp%2FB01KSWV7DS%2Fref%3Dsr_1_3_sspa%3Fkeywords%3Dchemex%2Bfilters%26qid%3D1664347216%26qu%3DeyJxc2MiOiIzLjAyIiwicXNhIjoiMi42NiIsInFzcCI6IjIuNjcifQ%253D%253D%26sr%3D8-3-spons%26psc%3D1&qualifier=1664347216&id=4161808152367954&widgetName=sp_atf"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "value": 31.99,
+      "currency": "USD",
+      "raw": "$31.99",
+      "name": "$31.99",
+      "asin": "B01KSWV7DS",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A0269170295BQ8G3YR4R9&url=%2FPour-Over-Filter-Hario-Chemex%2Fdp%2FB01KSWV7DS%2Fref%3Dsr_1_3_sspa%3Fkeywords%3Dchemex%2Bfilters%26qid%3D1664347216%26qu%3DeyJxc2MiOiIzLjAyIiwicXNhIjoiMi42NiIsInFzcCI6IjIuNjcifQ%253D%253D%26sr%3D8-3-spons%26psc%3D1&qualifier=1664347216&id=4161808152367954&widgetName=sp_atf"
+    },
+    "delivery": {
+      "tagline": "Get it as soon as Fri, Sep 30",
+      "price": {
+        "raw": "FREE Shipping by Amazon",
+        "symbol": "$",
+        "currency": "USD",
+        "value": 0,
+        "is_free": true
+      }
+    }
+  }
+]
