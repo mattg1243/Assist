@@ -21,9 +21,7 @@ export default function ItemsList(props) {
             <Box>
               <VStack space={5} marginTop={10} alignItems="center" width="100%">
                 {products.map(product => {
-                  return <>
-                    <ItemListRow key={product.asin} name={product.title} rating={product.rating} ratingsTotal={product.ratings_total} price={product.price.value} img={product.image} onPress={() => { navigation.navigate("ItemPage") }} />
-                  </>
+                  return <ItemListRow key={product.asin} name={product.title} rating={product.rating} ratingsTotal={product.ratings_total} price={product.price.value} img={product.image} onPress={() => { navigation.navigate("ItemPage") }} />
                 })}
                 <Pressable position="fixed" bg="#52B69A"><Icon size="xl" name="plus" color="#000000" onPress={() => { navigation.navigate("Splash") }}/></Pressable>
               </VStack>

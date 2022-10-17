@@ -15,7 +15,7 @@ export default function Splash(props) {
             // fontFamily: "OleoScriptSwashCaps_400Regular", 
             fontSize: "92px",  
             textShadowColor: 'white', 
-            textShadowOffset: 'rgba(0, 0, 0, 0.75)', 
+            textShadowOffset: '#00005', 
             textShadowRadius: 3, 
             color: "white", 
             padding: 10 }}>
